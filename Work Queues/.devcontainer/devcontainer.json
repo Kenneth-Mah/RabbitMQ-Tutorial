@@ -1,0 +1,18 @@
+{
+    "name": "workqueues",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "workqueues",
+    "workspaceFolder": "/workqueues",
+
+    "postCreateCommand": "pip3 install --user -r .devcontainer/requirements.txt",
+
+    "customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-azuretools.vscode-docker",
+				"ms-python.python",
+				"ms-python.vscode-pylance"
+			]
+		}
+	}
+}
