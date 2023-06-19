@@ -1,6 +1,6 @@
 # RabbitMQ-Tutorial
 
-https://www.rabbitmq.com/getstarted.html
+* [Tutorial Link](https://www.rabbitmq.com/getstarted.html)
 
 RabbitMQ Tutorials 1-5 completed using VS Code Dev Containers.
 
